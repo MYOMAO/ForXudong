@@ -1,0 +1,29 @@
+Decay B+
+1.00 anti-D0 pi+                                     PHSP; #[Reconstructed PDG2011]
+Enddecay
+
+
+
+Decay anti-D0  
+1.000000 K+      pi-                                     PHSP; #[Reconstructed PDG2011]
+Enddecay
+
+
+
+
+Decay B-
+1.00000 D0 pi-                                     PHSP; #[Reconstructed PDG2011]
+Enddecay
+
+
+
+Decay D0  
+1.000000 K-      pi+                                     PHSP; #[Reconstructed PDG2011]
+Enddecay
+
+
+
+
+
+
+End

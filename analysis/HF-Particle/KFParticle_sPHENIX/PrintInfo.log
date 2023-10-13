@@ -1,0 +1,321 @@
+------------------------------------------------ Record Info ACTS Propagating to KF Mother - After Propagation ------------------------------------------------
+ACTS:   After Prop: X =  18.5711   Y = 37.2909   Z = -22.4124   Px =  1.76316   Py = 3.96746   Pz = -2.3282
+---------------------------------------------------------------------- ATCS Final Track Covariance Matrix BEGIN ----------------------------------------------------------------------
+ACTS Matched: r =  0   s = 0     iter->second->get_error(r,s) 1.58757e-05
+ACTS Matched: r =  0   s = 1     iter->second->get_error(r,s) -1.18059e-06
+ACTS Matched: r =  0   s = 2     iter->second->get_error(r,s) 1.0011e-05
+ACTS Matched: r =  0   s = 3     iter->second->get_error(r,s) -5.14634e-05
+ACTS Matched: r =  0   s = 4     iter->second->get_error(r,s) -0.000112894
+ACTS Matched: r =  0   s = 5     iter->second->get_error(r,s) 6.74019e-05
+ACTS Matched: r =  1   s = 0     iter->second->get_error(r,s) -1.18059e-06
+ACTS Matched: r =  1   s = 1     iter->second->get_error(r,s) 1.34619e-05
+ACTS Matched: r =  1   s = 2     iter->second->get_error(r,s) 2.20462e-05
+ACTS Matched: r =  1   s = 3     iter->second->get_error(r,s) 2.22496e-05
+ACTS Matched: r =  1   s = 4     iter->second->get_error(r,s) 4.88086e-05
+ACTS Matched: r =  1   s = 5     iter->second->get_error(r,s) -2.68489e-05
+ACTS Matched: r =  2   s = 0     iter->second->get_error(r,s) 1.0011e-05
+ACTS Matched: r =  2   s = 1     iter->second->get_error(r,s) 2.20462e-05
+ACTS Matched: r =  2   s = 2     iter->second->get_error(r,s) 4.51501e-05
+ACTS Matched: r =  2   s = 3     iter->second->get_error(r,s) -1.05834e-06
+ACTS Matched: r =  2   s = 4     iter->second->get_error(r,s) -2.3208e-06
+ACTS Matched: r =  2   s = 5     iter->second->get_error(r,s) 5.29107e-06
+ACTS Matched: r =  3   s = 0     iter->second->get_error(r,s) -5.14634e-05
+ACTS Matched: r =  3   s = 1     iter->second->get_error(r,s) 2.22496e-05
+ACTS Matched: r =  3   s = 2     iter->second->get_error(r,s) -1.05834e-06
+ACTS Matched: r =  3   s = 3     iter->second->get_error(r,s) 0.000334154
+ACTS Matched: r =  3   s = 4     iter->second->get_error(r,s) 0.000738997
+ACTS Matched: r =  3   s = 5     iter->second->get_error(r,s) -0.000434983
+ACTS Matched: r =  4   s = 0     iter->second->get_error(r,s) -0.000112894
+ACTS Matched: r =  4   s = 1     iter->second->get_error(r,s) 4.88086e-05
+ACTS Matched: r =  4   s = 2     iter->second->get_error(r,s) -2.3208e-06
+ACTS Matched: r =  4   s = 3     iter->second->get_error(r,s) 0.000738997
+ACTS Matched: r =  4   s = 4     iter->second->get_error(r,s) 0.00163583
+ACTS Matched: r =  4   s = 5     iter->second->get_error(r,s) -0.000962711
+ACTS Matched: r =  5   s = 0     iter->second->get_error(r,s) 6.74019e-05
+ACTS Matched: r =  5   s = 1     iter->second->get_error(r,s) -2.68489e-05
+ACTS Matched: r =  5   s = 2     iter->second->get_error(r,s) 5.29107e-06
+ACTS Matched: r =  5   s = 3     iter->second->get_error(r,s) -0.000434983
+ACTS Matched: r =  5   s = 4     iter->second->get_error(r,s) -0.000962711
+ACTS Matched: r =  5   s = 5     iter->second->get_error(r,s) 0.000567461
+---------------------------------------------------------------------- ATCS Final Track Covariance Matrix END ----------------------------------------------------------------------
+------------------------------------------------ DONE ACTS Record ------------------------------------------------
+------------------------------------------------ Record Info ACTS Propagating to KF Mother - Before Propagation ------------------------------------------------
+ACTS:   Before Prop: X =  0.895452   Y = -0.441366   Z = -0.0667559   Px =  1.92049   Py = 3.89632   Pz = -2.32945
+ACTS Propagation to Vertex: X =  18.5062   Y = 37.1506   Z = -22.332
+ACTS Actually Gives Us:   After Prop: X =  18.4981   Y = 37.1542   Z = -22.3295   Px =  1.76269   Py = 3.9702   Pz = -2.32945
+---------------------------------------------------------------------- Daughter Track Covariance Matrix BEGIN ----------------------------------------------------------------------
+r =  0   s = 0     m_dst_track->get_error(r,s) = 2.09056e-05
+r =  0   s = 1     m_dst_track->get_error(r,s) = -7.78156e-06
+r =  0   s = 2     m_dst_track->get_error(r,s) = 4.21963e-06
+r =  0   s = 3     m_dst_track->get_error(r,s) = 2.28735e-05
+r =  0   s = 4     m_dst_track->get_error(r,s) = 5.40967e-05
+r =  0   s = 5     m_dst_track->get_error(r,s) = -3.18328e-05
+r =  1   s = 0     m_dst_track->get_error(r,s) = -7.78156e-06
+r =  1   s = 1     m_dst_track->get_error(r,s) = 9.50446e-06
+r =  1   s = 2     m_dst_track->get_error(r,s) = 9.48208e-06
+r =  1   s = 3     m_dst_track->get_error(r,s) = -1.12675e-05
+r =  1   s = 4     m_dst_track->get_error(r,s) = -2.66479e-05
+r =  1   s = 5     m_dst_track->get_error(r,s) = 1.46577e-05
+r =  2   s = 0     m_dst_track->get_error(r,s) = 4.21963e-06
+r =  2   s = 1     m_dst_track->get_error(r,s) = 9.48208e-06
+r =  2   s = 2     m_dst_track->get_error(r,s) = 1.93389e-05
+r =  2   s = 3     m_dst_track->get_error(r,s) = 1.13356e-08
+r =  2   s = 4     m_dst_track->get_error(r,s) = 2.72672e-08
+r =  2   s = 5     m_dst_track->get_error(r,s) = -1.72715e-06
+r =  3   s = 0     m_dst_track->get_error(r,s) = 2.28735e-05
+r =  3   s = 1     m_dst_track->get_error(r,s) = -1.12675e-05
+r =  3   s = 2     m_dst_track->get_error(r,s) = 1.13356e-08
+r =  3   s = 3     m_dst_track->get_error(r,s) = 0.000363771
+r =  3   s = 4     m_dst_track->get_error(r,s) = 0.000759808
+r =  3   s = 5     m_dst_track->get_error(r,s) = -0.000450259
+r =  4   s = 0     m_dst_track->get_error(r,s) = 5.40967e-05
+r =  4   s = 1     m_dst_track->get_error(r,s) = -2.66479e-05
+r =  4   s = 2     m_dst_track->get_error(r,s) = 2.72672e-08
+r =  4   s = 3     m_dst_track->get_error(r,s) = 0.000759808
+r =  4   s = 4     m_dst_track->get_error(r,s) = 0.00161805
+r =  4   s = 5     m_dst_track->get_error(r,s) = -0.000955445
+r =  5   s = 0     m_dst_track->get_error(r,s) = -3.18328e-05
+r =  5   s = 1     m_dst_track->get_error(r,s) = 1.46577e-05
+r =  5   s = 2     m_dst_track->get_error(r,s) = -1.72715e-06
+r =  5   s = 3     m_dst_track->get_error(r,s) = -0.000450259
+r =  5   s = 4     m_dst_track->get_error(r,s) = -0.000955445
+r =  5   s = 5     m_dst_track->get_error(r,s) = 0.000572702
+---------------------------------------------------------------------- Daughter Track Covariance Matrix END ----------------------------------------------------------------------
+---------------------------------------------------------------------- KFParticle Information Before Propagation ----------------------------------------------------------------------
+KFParticle:   Before Prop: X =  0.895452   Y = -0.441366   Z = -0.0667559   Px =  1.92049   Py = 3.89632   Pz = -2.32945
+---------------------------------------------------------------------- Daughter Track Covariance Matrix BEGIN ----------------------------------------------------------------------
+r =  0   s = 0     inputTracks[j].GetCovariance(r,s) = 2.09056e-05
+r =  0   s = 1     inputTracks[j].GetCovariance(r,s) = -7.78156e-06
+r =  0   s = 2     inputTracks[j].GetCovariance(r,s) = 4.21963e-06
+r =  0   s = 3     inputTracks[j].GetCovariance(r,s) = 2.28735e-05
+r =  0   s = 4     inputTracks[j].GetCovariance(r,s) = 5.40967e-05
+r =  0   s = 5     inputTracks[j].GetCovariance(r,s) = -3.18328e-05
+r =  1   s = 0     inputTracks[j].GetCovariance(r,s) = -7.78156e-06
+r =  1   s = 1     inputTracks[j].GetCovariance(r,s) = 9.50446e-06
+r =  1   s = 2     inputTracks[j].GetCovariance(r,s) = 9.48208e-06
+r =  1   s = 3     inputTracks[j].GetCovariance(r,s) = -1.12675e-05
+r =  1   s = 4     inputTracks[j].GetCovariance(r,s) = -2.66479e-05
+r =  1   s = 5     inputTracks[j].GetCovariance(r,s) = 1.46577e-05
+r =  2   s = 0     inputTracks[j].GetCovariance(r,s) = 4.21963e-06
+r =  2   s = 1     inputTracks[j].GetCovariance(r,s) = 9.48208e-06
+r =  2   s = 2     inputTracks[j].GetCovariance(r,s) = 1.93389e-05
+r =  2   s = 3     inputTracks[j].GetCovariance(r,s) = 1.13356e-08
+r =  2   s = 4     inputTracks[j].GetCovariance(r,s) = 2.72672e-08
+r =  2   s = 5     inputTracks[j].GetCovariance(r,s) = -1.72715e-06
+r =  3   s = 0     inputTracks[j].GetCovariance(r,s) = 2.28735e-05
+r =  3   s = 1     inputTracks[j].GetCovariance(r,s) = -1.12675e-05
+r =  3   s = 2     inputTracks[j].GetCovariance(r,s) = 1.13356e-08
+r =  3   s = 3     inputTracks[j].GetCovariance(r,s) = 0.000363771
+r =  3   s = 4     inputTracks[j].GetCovariance(r,s) = 0.000759808
+r =  3   s = 5     inputTracks[j].GetCovariance(r,s) = -0.000450259
+r =  4   s = 0     inputTracks[j].GetCovariance(r,s) = 5.40967e-05
+r =  4   s = 1     inputTracks[j].GetCovariance(r,s) = -2.66479e-05
+r =  4   s = 2     inputTracks[j].GetCovariance(r,s) = 2.72672e-08
+r =  4   s = 3     inputTracks[j].GetCovariance(r,s) = 0.000759808
+r =  4   s = 4     inputTracks[j].GetCovariance(r,s) = 0.00161805
+r =  4   s = 5     inputTracks[j].GetCovariance(r,s) = -0.000955445
+r =  5   s = 0     inputTracks[j].GetCovariance(r,s) = -3.18328e-05
+r =  5   s = 1     inputTracks[j].GetCovariance(r,s) = 1.46577e-05
+r =  5   s = 2     inputTracks[j].GetCovariance(r,s) = -1.72715e-06
+r =  5   s = 3     inputTracks[j].GetCovariance(r,s) = -0.000450259
+r =  5   s = 4     inputTracks[j].GetCovariance(r,s) = -0.000955445
+r =  5   s = 5     inputTracks[j].GetCovariance(r,s) = 0.000572702
+---------------------------------------------------------------------- Daughter Track Covariance Matrix END ----------------------------------------------------------------------
+Mother Seconary Vertex Position:   X =  18.4091   Y = 36.9542   Z = -22.2145
+---------------------------------------------------------------------- Mother Seconary Vertex Covariance Matrix BEGIN ----------------------------------------------------------------------
+r =  0   s = 0     mother.GetCovariance(r,s) = 0.0247105
+r =  0   s = 1     mother.GetCovariance(r,s) = 0.0520224
+r =  0   s = 2     mother.GetCovariance(r,s) = -0.0308822
+r =  0   s = 3     mother.GetCovariance(r,s) = -2.7655e-05
+r =  0   s = 4     mother.GetCovariance(r,s) = 0.000106361
+r =  0   s = 5     mother.GetCovariance(r,s) = -2.61851e-05
+r =  1   s = 0     mother.GetCovariance(r,s) = 0.0520224
+r =  1   s = 1     mother.GetCovariance(r,s) = 0.111998
+r =  1   s = 2     mother.GetCovariance(r,s) = -0.0662199
+r =  1   s = 3     mother.GetCovariance(r,s) = -0.00018022
+r =  1   s = 4     mother.GetCovariance(r,s) = 0.000139757
+r =  1   s = 5     mother.GetCovariance(r,s) = 6.94383e-06
+r =  2   s = 0     mother.GetCovariance(r,s) = -0.0308822
+r =  2   s = 1     mother.GetCovariance(r,s) = -0.0662199
+r =  2   s = 2     mother.GetCovariance(r,s) = 0.0398522
+r =  2   s = 3     mother.GetCovariance(r,s) = 0.000114631
+r =  2   s = 4     mother.GetCovariance(r,s) = -5.58581e-05
+r =  2   s = 5     mother.GetCovariance(r,s) = 6.8188e-05
+r =  3   s = 0     mother.GetCovariance(r,s) = -2.7655e-05
+r =  3   s = 1     mother.GetCovariance(r,s) = -0.00018022
+r =  3   s = 2     mother.GetCovariance(r,s) = 0.000114631
+r =  3   s = 3     mother.GetCovariance(r,s) = 0.000363564
+r =  3   s = 4     mother.GetCovariance(r,s) = 0.000762402
+r =  3   s = 5     mother.GetCovariance(r,s) = -0.000450318
+r =  4   s = 0     mother.GetCovariance(r,s) = 0.000106361
+r =  4   s = 1     mother.GetCovariance(r,s) = 0.000139757
+r =  4   s = 2     mother.GetCovariance(r,s) = -5.58581e-05
+r =  4   s = 3     mother.GetCovariance(r,s) = 0.000762402
+r =  4   s = 4     mother.GetCovariance(r,s) = 0.00162815
+r =  4   s = 5     mother.GetCovariance(r,s) = -0.000959348
+r =  5   s = 0     mother.GetCovariance(r,s) = -2.61851e-05
+r =  5   s = 1     mother.GetCovariance(r,s) = 6.94383e-06
+r =  5   s = 2     mother.GetCovariance(r,s) = 6.8188e-05
+r =  5   s = 3     mother.GetCovariance(r,s) = -0.000450318
+r =  5   s = 4     mother.GetCovariance(r,s) = -0.000959348
+r =  5   s = 5     mother.GetCovariance(r,s) = 0.000577376
+---------------------------------------------------------------------- Mother Seconary Vertex Covariance Matrix END ----------------------------------------------------------------------
+---------------------------------------------------------------------- KFParticle Information After Propagation ----------------------------------------------------------------------
+KFParticle:   After Prop: X =  18.4093   Y = 36.9545   Z = -22.2136   Px =  1.7635   Py = 3.96977   Pz = -2.32945
+---------------------------------------------------------------------- Daughter Track Covariance Matrix BEGIN ----------------------------------------------------------------------
+r =  0   s = 0     inputTracks[j].GetCovariance(r,s) = 0.0228079
+r =  0   s = 1     inputTracks[j].GetCovariance(r,s) = 0.0495257
+r =  0   s = 2     inputTracks[j].GetCovariance(r,s) = -0.0292387
+r =  0   s = 3     inputTracks[j].GetCovariance(r,s) = 9.20615e-05
+r =  0   s = 4     inputTracks[j].GetCovariance(r,s) = 7.81428e-05
+r =  0   s = 5     inputTracks[j].GetCovariance(r,s) = -5.48739e-05
+r =  1   s = 0     inputTracks[j].GetCovariance(r,s) = 0.0495257
+r =  1   s = 1     inputTracks[j].GetCovariance(r,s) = 0.108899
+r =  1   s = 2     inputTracks[j].GetCovariance(r,s) = -0.0641519
+r =  1   s = 3     inputTracks[j].GetCovariance(r,s) = 9.35892e-05
+r =  1   s = 4     inputTracks[j].GetCovariance(r,s) = 8.03601e-05
+r =  1   s = 5     inputTracks[j].GetCovariance(r,s) = -5.2487e-05
+r =  2   s = 0     inputTracks[j].GetCovariance(r,s) = -0.0292387
+r =  2   s = 1     inputTracks[j].GetCovariance(r,s) = -0.0641519
+r =  2   s = 2     inputTracks[j].GetCovariance(r,s) = 0.0381548
+r =  2   s = 3     inputTracks[j].GetCovariance(r,s) = -6.02121e-05
+r =  2   s = 4     inputTracks[j].GetCovariance(r,s) = -4.27344e-05
+r =  2   s = 5     inputTracks[j].GetCovariance(r,s) = 6.58819e-05
+r =  3   s = 0     inputTracks[j].GetCovariance(r,s) = 9.20615e-05
+r =  3   s = 1     inputTracks[j].GetCovariance(r,s) = 9.35892e-05
+r =  3   s = 2     inputTracks[j].GetCovariance(r,s) = -6.02121e-05
+r =  3   s = 3     inputTracks[j].GetCovariance(r,s) = 0.000354608
+r =  3   s = 4     inputTracks[j].GetCovariance(r,s) = 0.000752037
+r =  3   s = 5     inputTracks[j].GetCovariance(r,s) = -0.00044513
+r =  4   s = 0     inputTracks[j].GetCovariance(r,s) = 7.81428e-05
+r =  4   s = 1     inputTracks[j].GetCovariance(r,s) = 8.03601e-05
+r =  4   s = 2     inputTracks[j].GetCovariance(r,s) = -4.27344e-05
+r =  4   s = 3     inputTracks[j].GetCovariance(r,s) = 0.000752037
+r =  4   s = 4     inputTracks[j].GetCovariance(r,s) = 0.00161111
+r =  4   s = 5     inputTracks[j].GetCovariance(r,s) = -0.000951847
+r =  5   s = 0     inputTracks[j].GetCovariance(r,s) = -5.48739e-05
+r =  5   s = 1     inputTracks[j].GetCovariance(r,s) = -5.2487e-05
+r =  5   s = 2     inputTracks[j].GetCovariance(r,s) = 6.58819e-05
+r =  5   s = 3     inputTracks[j].GetCovariance(r,s) = -0.00044513
+r =  5   s = 4     inputTracks[j].GetCovariance(r,s) = -0.000951847
+r =  5   s = 5     inputTracks[j].GetCovariance(r,s) = 0.000566639
+---------------------------------------------------------------------- Daughter Track Covariance Matrix END ----------------------------------------------------------------------
+---------------------------------------------------------------------- KFParticle Information Before Propagation ----------------------------------------------------------------------
+KFParticle:   Before Prop: X =  0.895452   Y = -0.441366   Z = -0.0667559   Px =  1.92049   Py = 3.89632   Pz = -2.32945
+---------------------------------------------------------------------- Daughter Track Covariance Matrix BEGIN ----------------------------------------------------------------------
+r =  0   s = 0     inputTracks[j].GetCovariance(r,s) = 2.09056e-05
+r =  0   s = 1     inputTracks[j].GetCovariance(r,s) = -7.78156e-06
+r =  0   s = 2     inputTracks[j].GetCovariance(r,s) = 4.21963e-06
+r =  0   s = 3     inputTracks[j].GetCovariance(r,s) = 2.28735e-05
+r =  0   s = 4     inputTracks[j].GetCovariance(r,s) = 5.40967e-05
+r =  0   s = 5     inputTracks[j].GetCovariance(r,s) = -3.18328e-05
+r =  1   s = 0     inputTracks[j].GetCovariance(r,s) = -7.78156e-06
+r =  1   s = 1     inputTracks[j].GetCovariance(r,s) = 9.50446e-06
+r =  1   s = 2     inputTracks[j].GetCovariance(r,s) = 9.48208e-06
+r =  1   s = 3     inputTracks[j].GetCovariance(r,s) = -1.12675e-05
+r =  1   s = 4     inputTracks[j].GetCovariance(r,s) = -2.66479e-05
+r =  1   s = 5     inputTracks[j].GetCovariance(r,s) = 1.46577e-05
+r =  2   s = 0     inputTracks[j].GetCovariance(r,s) = 4.21963e-06
+r =  2   s = 1     inputTracks[j].GetCovariance(r,s) = 9.48208e-06
+r =  2   s = 2     inputTracks[j].GetCovariance(r,s) = 1.93389e-05
+r =  2   s = 3     inputTracks[j].GetCovariance(r,s) = 1.13356e-08
+r =  2   s = 4     inputTracks[j].GetCovariance(r,s) = 2.72672e-08
+r =  2   s = 5     inputTracks[j].GetCovariance(r,s) = -1.72715e-06
+r =  3   s = 0     inputTracks[j].GetCovariance(r,s) = 2.28735e-05
+r =  3   s = 1     inputTracks[j].GetCovariance(r,s) = -1.12675e-05
+r =  3   s = 2     inputTracks[j].GetCovariance(r,s) = 1.13356e-08
+r =  3   s = 3     inputTracks[j].GetCovariance(r,s) = 0.000363771
+r =  3   s = 4     inputTracks[j].GetCovariance(r,s) = 0.000759808
+r =  3   s = 5     inputTracks[j].GetCovariance(r,s) = -0.000450259
+r =  4   s = 0     inputTracks[j].GetCovariance(r,s) = 5.40967e-05
+r =  4   s = 1     inputTracks[j].GetCovariance(r,s) = -2.66479e-05
+r =  4   s = 2     inputTracks[j].GetCovariance(r,s) = 2.72672e-08
+r =  4   s = 3     inputTracks[j].GetCovariance(r,s) = 0.000759808
+r =  4   s = 4     inputTracks[j].GetCovariance(r,s) = 0.00161805
+r =  4   s = 5     inputTracks[j].GetCovariance(r,s) = -0.000955445
+r =  5   s = 0     inputTracks[j].GetCovariance(r,s) = -3.18328e-05
+r =  5   s = 1     inputTracks[j].GetCovariance(r,s) = 1.46577e-05
+r =  5   s = 2     inputTracks[j].GetCovariance(r,s) = -1.72715e-06
+r =  5   s = 3     inputTracks[j].GetCovariance(r,s) = -0.000450259
+r =  5   s = 4     inputTracks[j].GetCovariance(r,s) = -0.000955445
+r =  5   s = 5     inputTracks[j].GetCovariance(r,s) = 0.000572702
+---------------------------------------------------------------------- Daughter Track Covariance Matrix END ----------------------------------------------------------------------
+Mother Seconary Vertex Position:   X =  18.4091   Y = 36.9542   Z = -22.2145
+---------------------------------------------------------------------- Mother Seconary Vertex Covariance Matrix BEGIN ----------------------------------------------------------------------
+r =  0   s = 0     mother.GetCovariance(r,s) = 0.0247105
+r =  0   s = 1     mother.GetCovariance(r,s) = 0.0520224
+r =  0   s = 2     mother.GetCovariance(r,s) = -0.0308822
+r =  0   s = 3     mother.GetCovariance(r,s) = -2.7655e-05
+r =  0   s = 4     mother.GetCovariance(r,s) = 0.000106361
+r =  0   s = 5     mother.GetCovariance(r,s) = -2.61851e-05
+r =  1   s = 0     mother.GetCovariance(r,s) = 0.0520224
+r =  1   s = 1     mother.GetCovariance(r,s) = 0.111998
+r =  1   s = 2     mother.GetCovariance(r,s) = -0.0662199
+r =  1   s = 3     mother.GetCovariance(r,s) = -0.00018022
+r =  1   s = 4     mother.GetCovariance(r,s) = 0.000139757
+r =  1   s = 5     mother.GetCovariance(r,s) = 6.94383e-06
+r =  2   s = 0     mother.GetCovariance(r,s) = -0.0308822
+r =  2   s = 1     mother.GetCovariance(r,s) = -0.0662199
+r =  2   s = 2     mother.GetCovariance(r,s) = 0.0398522
+r =  2   s = 3     mother.GetCovariance(r,s) = 0.000114631
+r =  2   s = 4     mother.GetCovariance(r,s) = -5.58581e-05
+r =  2   s = 5     mother.GetCovariance(r,s) = 6.8188e-05
+r =  3   s = 0     mother.GetCovariance(r,s) = -2.7655e-05
+r =  3   s = 1     mother.GetCovariance(r,s) = -0.00018022
+r =  3   s = 2     mother.GetCovariance(r,s) = 0.000114631
+r =  3   s = 3     mother.GetCovariance(r,s) = 0.000363564
+r =  3   s = 4     mother.GetCovariance(r,s) = 0.000762402
+r =  3   s = 5     mother.GetCovariance(r,s) = -0.000450318
+r =  4   s = 0     mother.GetCovariance(r,s) = 0.000106361
+r =  4   s = 1     mother.GetCovariance(r,s) = 0.000139757
+r =  4   s = 2     mother.GetCovariance(r,s) = -5.58581e-05
+r =  4   s = 3     mother.GetCovariance(r,s) = 0.000762402
+r =  4   s = 4     mother.GetCovariance(r,s) = 0.00162815
+r =  4   s = 5     mother.GetCovariance(r,s) = -0.000959348
+r =  5   s = 0     mother.GetCovariance(r,s) = -2.61851e-05
+r =  5   s = 1     mother.GetCovariance(r,s) = 6.94383e-06
+r =  5   s = 2     mother.GetCovariance(r,s) = 6.8188e-05
+r =  5   s = 3     mother.GetCovariance(r,s) = -0.000450318
+r =  5   s = 4     mother.GetCovariance(r,s) = -0.000959348
+r =  5   s = 5     mother.GetCovariance(r,s) = 0.000577376
+---------------------------------------------------------------------- Mother Seconary Vertex Covariance Matrix END ----------------------------------------------------------------------
+---------------------------------------------------------------------- KFParticle Information After Propagation ----------------------------------------------------------------------
+KFParticle:   After Prop: X =  18.4093   Y = 36.9545   Z = -22.2136   Px =  1.7635   Py = 3.96977   Pz = -2.32945
+---------------------------------------------------------------------- Daughter Track Covariance Matrix BEGIN ----------------------------------------------------------------------
+r =  0   s = 0     inputTracks[j].GetCovariance(r,s) = 0.0228079
+r =  0   s = 1     inputTracks[j].GetCovariance(r,s) = 0.0495257
+r =  0   s = 2     inputTracks[j].GetCovariance(r,s) = -0.0292387
+r =  0   s = 3     inputTracks[j].GetCovariance(r,s) = 9.20615e-05
+r =  0   s = 4     inputTracks[j].GetCovariance(r,s) = 7.81428e-05
+r =  0   s = 5     inputTracks[j].GetCovariance(r,s) = -5.48739e-05
+r =  1   s = 0     inputTracks[j].GetCovariance(r,s) = 0.0495257
+r =  1   s = 1     inputTracks[j].GetCovariance(r,s) = 0.108899
+r =  1   s = 2     inputTracks[j].GetCovariance(r,s) = -0.0641519
+r =  1   s = 3     inputTracks[j].GetCovariance(r,s) = 9.35892e-05
+r =  1   s = 4     inputTracks[j].GetCovariance(r,s) = 8.03601e-05
+r =  1   s = 5     inputTracks[j].GetCovariance(r,s) = -5.2487e-05
+r =  2   s = 0     inputTracks[j].GetCovariance(r,s) = -0.0292387
+r =  2   s = 1     inputTracks[j].GetCovariance(r,s) = -0.0641519
+r =  2   s = 2     inputTracks[j].GetCovariance(r,s) = 0.0381548
+r =  2   s = 3     inputTracks[j].GetCovariance(r,s) = -6.02121e-05
+r =  2   s = 4     inputTracks[j].GetCovariance(r,s) = -4.27344e-05
+r =  2   s = 5     inputTracks[j].GetCovariance(r,s) = 6.58819e-05
+r =  3   s = 0     inputTracks[j].GetCovariance(r,s) = 9.20615e-05
+r =  3   s = 1     inputTracks[j].GetCovariance(r,s) = 9.35892e-05
+r =  3   s = 2     inputTracks[j].GetCovariance(r,s) = -6.02121e-05
+r =  3   s = 3     inputTracks[j].GetCovariance(r,s) = 0.000354608
+r =  3   s = 4     inputTracks[j].GetCovariance(r,s) = 0.000752037
+r =  3   s = 5     inputTracks[j].GetCovariance(r,s) = -0.00044513
+r =  4   s = 0     inputTracks[j].GetCovariance(r,s) = 7.81428e-05
+r =  4   s = 1     inputTracks[j].GetCovariance(r,s) = 8.03601e-05
+r =  4   s = 2     inputTracks[j].GetCovariance(r,s) = -4.27344e-05
+r =  4   s = 3     inputTracks[j].GetCovariance(r,s) = 0.000752037
+r =  4   s = 4     inputTracks[j].GetCovariance(r,s) = 0.00161111
+r =  4   s = 5     inputTracks[j].GetCovariance(r,s) = -0.000951847
+r =  5   s = 0     inputTracks[j].GetCovariance(r,s) = -5.48739e-05
+r =  5   s = 1     inputTracks[j].GetCovariance(r,s) = -5.2487e-05
+r =  5   s = 2     inputTracks[j].GetCovariance(r,s) = 6.58819e-05
+r =  5   s = 3     inputTracks[j].GetCovariance(r,s) = -0.00044513
+r =  5   s = 4     inputTracks[j].GetCovariance(r,s) = -0.000951847
+r =  5   s = 5     inputTracks[j].GetCovariance(r,s) = 0.000566639
+---------------------------------------------------------------------- Daughter Track Covariance Matrix END ----------------------------------------------------------------------
