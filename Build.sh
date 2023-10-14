@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Source the sphenix_setup.csh script
-source /opt/sphenix/core/bin/sphenix_setup.sh -n ana.355
+source /opt/sphenix/core/bin/sphenix_setup.sh -n ana.358
 
 # Remove the 'install' directory
 rm -r install
